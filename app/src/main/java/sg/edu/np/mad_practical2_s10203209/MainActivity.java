@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    User user = new User("Tricia","aaaAAaaAAAAAAaaaaaaAAAAAAAAaaaAAAAAAaaaaAAAAaAhhhhhhhhhhhhhhh! i is dont know what to type here. please send help. i is dyinggg. i wanna drink bubble tea, please treat me :')",0,false);
+    User user = new User("Tricia","aaaAAaaAAAAAAaaaaaaAAAAAAAAaaaAAAAAAaaaaAAAAaAahhhhhhhhhhhhhhh! i is dont know what to type here. please send help. i is dyinggg. i wanna drink bubble tea, please treat me :')",0,false);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
