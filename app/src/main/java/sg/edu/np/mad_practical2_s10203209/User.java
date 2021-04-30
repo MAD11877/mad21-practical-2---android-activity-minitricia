@@ -1,10 +1,10 @@
 package sg.edu.np.mad_practical2_s10203209;
 
 public class User {
-    private String name;
-    private String description;
-    private int id;
-    private boolean followed;
+    public String name;
+    public String description;
+    public int id;
+    public boolean followed;
 
     public User(String name, String description, int id, boolean followed) {
         this.name = name;
